@@ -54,6 +54,6 @@ while($true){
 
     }
 
-    Start-Sleep -Seconds 1
+    Start-Sleep -Seconds 5
     cls #clears the screen, ready for the next person
 }
